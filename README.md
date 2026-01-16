@@ -1,2 +1,2 @@
 # Student-Performance-Analysis
-This project analyzes how study habits and attendance affect student academic performance. The data was cleaned, analyzed, and visualized to identify which factors have the strongest relationship with student scores. The analysis shows that study hours have a stronger impact on performance than attendance.
+This project analyzes how study habits and attendance affect student academic performance. The data was cleaned, analyzed, and visualized to identify which factors have the strongest relationship with student scores. The analysis shows that study hours have a stronger impact on performance than attendance!!
